@@ -46,18 +46,13 @@ isCompleted - выполнена или нет
 
 ## Скриншоты работы приложения
 
-<!DOCTYPE html>
 <html>
- <head>
-  <meta charset="utf-8">
-  <title>Фотографии</title>
- </head>
  <body>
   <p>
-    <img src="screenshots/1.png" width="300">
-    <img src="screenshots/2.png" width="300">
-    <img src="screenshots/3.png" width="300">
-    <img src="screenshots/4.png" width="300">
+    <img src="screenshots/1.png" width="200">
+    <img src="screenshots/2.png" width="200">
+    <img src="screenshots/3.png" width="200">
+    <img src="screenshots/4.png" width="200">
   </p>
  </body>
 </html>
