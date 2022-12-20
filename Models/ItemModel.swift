@@ -7,8 +7,6 @@
 
 import Foundation
 
-// Immutable struct
-
 struct ItemModel: Identifiable, Codable {
 	let id: String
 	let title: String
