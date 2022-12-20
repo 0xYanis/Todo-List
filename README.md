@@ -46,16 +46,12 @@ isCompleted - выполнена или нет
 
 ## Скриншоты работы приложения
 
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-20 at 13 54 16](https://user-images.githubusercontent.com/111576120/208651657-30f2996a-cd76-40a1-8eec-bfcf20ecf3f7.png)
+<img src="Todo-List/screenshots/Simulator Screen Shot - iPhone 14 Pro - 2022-12-20 at 13.55.19.png" width="500">
 
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-20 at 13 55 24](https://user-images.githubusercontent.com/111576120/208651708-8cf2dc20-102c-4503-be92-0162ab8e4df9.png)
+<img src="path/to/screenshot.png" width="500">
 
-Кнопка "Добавить задачу" имеет анимацию пульсации
+<img src="path/to/screenshot.png" width="500">
 
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-20 at 13 55 19](https://user-images.githubusercontent.com/111576120/208651810-4691fdca-0c67-4d8b-88d6-c4a1e7563e6e.png)
-
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-20 at 13 57 57](https://user-images.githubusercontent.com/111576120/208651858-f5c54a80-a37e-4ec2-9157-977b82753bf3.png)
-
-![Simulator Screen Shot - iPhone 14 Pro - 2022-12-20 at 13 59 02](https://user-images.githubusercontent.com/111576120/208651890-314983ee-1198-4ac0-833e-01e836c43f1e.png)
+<img src="path/to/screenshot.png" width="500">
 
 
