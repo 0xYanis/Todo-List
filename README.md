@@ -46,6 +46,6 @@ isCompleted - выполнена или нет
 
 ## Скриншоты работы приложения
 
-<img src="screenshots/1.png" width="500">
+<img src="screenshots/1.png" width="300">
 
 
