@@ -46,12 +46,6 @@ isCompleted - выполнена или нет
 
 ## Скриншоты работы приложения
 
-<img src="Todo-List/screenshots/Simulator Screen Shot - iPhone 14 Pro - 2022-12-20 at 13.55.19.png" width="500">
-
-<img src="path/to/screenshot.png" width="500">
-
-<img src="path/to/screenshot.png" width="500">
-
-<img src="path/to/screenshot.png" width="500">
+<img src="Todo-List/screenshots/1.png" width="500">
 
 
