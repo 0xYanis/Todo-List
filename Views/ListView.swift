@@ -13,10 +13,6 @@ struct ListView: View {
 	
 	var body: some View {
 		ZStack {
-			LinearGradient(gradient: Gradient(colors: [ .white, .blue]),
-						   startPoint: .center,
-						   endPoint: .bottom)
-				.ignoresSafeArea()
 			if listViewModel.items.isEmpty {
 				NoItemsView()
 					.transition(AnyTransition.opacity.animation(.easeIn))
