@@ -21,10 +21,6 @@ struct ListView: View {
 				NoItemsView()
 					.transition(AnyTransition.opacity.animation(.easeIn))
 			} else {
-				LinearGradient(colors: [.black, .black, .purple],
-							   startPoint: .top,
-							   endPoint: .bottom)
-				.edgesIgnoringSafeArea(.all)
 				VStack {
 					List {
 						ForEach(listViewModel.items) { item in
