@@ -10,7 +10,7 @@
     <img src="screenshots/1.PNG" width="200">
     <img src="screenshots/2.PNG" width="200">
     <img src="screenshots/3.PNG" width="200">
-    <img src="screenshots/6.PNG" width="200">
+    <img src="screenshots/4.PNG" width="200">
   </p>
  </body>
 </html>
