@@ -1,4 +1,4 @@
-# To do List - pet-project (скриншоты внизу :) )
+# To do List - pet-project
 
 ## Стэк технологий:
 
